@@ -1,0 +1,17 @@
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\bin\Debug\testControl.exe.config
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\bin\Debug\testControl.exe
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\bin\Debug\testControl.pdb
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\testControl.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\MainWindow.baml
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\App.g.cs
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\testControl_MarkupCompile.cache
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\testControl.g.resources
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\testControl.Properties.Resources.resources
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\testControl.csproj.GenerateResource.Cache
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\testControl.exe
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\testControl.pdb
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\testControl_MarkupCompile.lref
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\brett.baml
+C:\Users\Alexandra.Briese\Documents\GitHub\testControl\testControl\obj\Debug\brett.g.cs
